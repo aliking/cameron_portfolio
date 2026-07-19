@@ -9,10 +9,10 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-project-stack-portfolio", :path => '~/Documents/dev/jekyll_project_stack/jekyll-project-stack-portfolio'
+gem "jekyll-project-stack-portfolio", :path => '~/Documents/dev/jekyll-project-stack-portfolio'
 
 group :jekyll_plugins do
-  gem "jekyll-page-asset", :path => '~/Documents/dev/jekyll_project_stack/jekyll-page-asset'
+  gem "jekyll-page-asset", :path => '~/Documents/dev/jekyll-page-asset'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -8,7 +8,7 @@ PATH
 PATH
   remote: ../jekyll-project-stack-portfolio
   specs:
-    jekyll-project-stack-portfolio (0.1.0)
+    jekyll-project-stack-portfolio (0.1.1)
       jekyll (>= 4.0, < 5.0)
       jekyll-seo-tag (>= 2.8, < 3.0)
 
