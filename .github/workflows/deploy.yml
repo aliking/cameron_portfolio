@@ -1,0 +1,17 @@
+name: Trigger Netlify Deployment
+
+on:
+  push:
+    branches:
+      - main  # Change this to your default branch name
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    # Only deploys if the commit message starts with 'deploy:'
+    if: startsWith(github.event.head_commit.message, 'deploy:')
+
+    steps:
+      - name: Ping Netlify Build Hook
+        run: |
+          curl -X POST -d {} ${{ secrets.NETLIFY_BUILD_HOOK }}
