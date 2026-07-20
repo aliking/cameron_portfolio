@@ -8,7 +8,19 @@
             "name": "Debug Jekyll Serve",
             "type": "ruby_lsp",
             "request": "launch",
+            "env": {
+                "RUBY_DLL_PATH": "/c/Users/calvi/Documents/dev/vips-dev-8.18/bin"
+            },
             "program": "jekyll serve --livereload --trace --verbose",
+        },
+        {
+            "name": "Live Jekyll Serve",
+            "type": "ruby_lsp",
+            "request": "launch",
+            "env": {
+                "RUBY_DLL_PATH": "/c/Users/calvi/Documents/dev/vips-dev-8.18/bin"
+            },
+            "program": "jekyll serve --livereload",
         },
         {
             "name": "Jekyll Clean",
