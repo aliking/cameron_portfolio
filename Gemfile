@@ -12,7 +12,7 @@ gem "jekyll", "~> 4.4.1"
 gem "jekyll-project-stack-portfolio"
 
 group :jekyll_plugins do
-  gem "jekyll-page-asset"
+  gem "jekyll-page-asset", "0.1.2"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -73,7 +73,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-page-asset (0.1.0)
+    jekyll-page-asset (0.1.2)
       jekyll (>= 4.0, < 5.0)
       jekyll_picture_tag (>= 2.0, < 3.0)
     jekyll-project-stack-portfolio (0.1.2)
@@ -183,7 +183,7 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
-  jekyll-page-asset
+  jekyll-page-asset (= 0.1.2)
   jekyll-project-stack-portfolio
   tzinfo (>= 1, < 3)
   tzinfo-data
