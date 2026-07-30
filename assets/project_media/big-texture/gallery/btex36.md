@@ -1,0 +1,1 @@
+Christian practices are now nothing more than making effigies and burning them. A fittingly pagan existence.
