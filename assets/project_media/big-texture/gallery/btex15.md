@@ -1,1 +1,1 @@
-The Pacific Youth Continental Escape Leauge doesn't fare much better than their Atlantic siblings.
+The Pacific Youth Continental Escape League doesn't fare much better than their Atlantic siblings.

@@ -1,1 +1,1 @@
-The specific passage which drives **Sir Gabriel Peppers** to steal the diary from **Xylem Tube** is one which features a common melancholy dream of the teenage feminine - the alien abduction fantasy, a quiet, unknowably Caucasian plea of rescure from suburbia.
+The specific passage which drives **Sir Gabriel Peppers** to steal the diary from **Xylem Tube** is one which features a common melancholy dream of the teenage feminine - the alien abduction fantasy, a quiet, unknowably Caucasian plea of rescue from suburbia.

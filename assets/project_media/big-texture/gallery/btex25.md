@@ -1,1 +1,1 @@
-After years of hearing a whispering voice in his head, **Sir Gabriel Peppers** decides that he must succumb to its demans, heading out on an American Horseback Quest to steal and deliver the Diary of Alma Wheeler to The Church of Zero State.
+After years of hearing a whispering voice in his head, **Sir Gabriel Peppers** decides that he must succumb to its demands, heading out on an American Horseback Quest to steal and deliver the Diary of Alma Wheeler to The Church of Zero State.

@@ -1,1 +1,1 @@
-A hurricane hits regularly every summer, unearthing a new pathogen in the Veracruz Gulf soils. A particularly infectious one reaches Durango and is set to spead up to Sonora by the fall.
+A hurricane hits regularly every summer, unearthing some new pathogen in the Veracruz Gulf soils. A particularly infectious one reaches Durango and is set to spread up to Sonora by the fall.
