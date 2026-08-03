@@ -1,0 +1,1 @@
+The Classic American sacrifice rituals have been warped by pumpkin-spice-air-bnb-HOA-live-laugh-love culture excessively. Most "civilized" areas are governed by a series of esoteric purity-culture rules. The punishment for disobeying is often death.

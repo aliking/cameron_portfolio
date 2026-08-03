@@ -11,4 +11,6 @@ Following the 2036 bombing at Gorowitz Law's Manhattan Office and the disappeara
 
 The testimony of Gillian Crosby, Louis' classmate, paints a portrait of the mercurial life these teenagers lived, under constant fear of fiery death. Such a death has already begun to claim a few lives...
 
+{% page_asset fountain MercRhyth.fountain %}
+
 {% page_asset gallery gallery1 %}

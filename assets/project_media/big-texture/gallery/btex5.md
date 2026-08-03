@@ -1,0 +1,1 @@
+Many decrepit ex-urban areas now feature a flourishing, romantic homosexual underground, as if the birthrates weren't low enough already. Oh, well. It was exclusion that got us all into this mess, so I'm not eager to continue with it.

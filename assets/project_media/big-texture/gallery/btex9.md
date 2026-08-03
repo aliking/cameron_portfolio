@@ -1,0 +1,1 @@
+Beauty is often sought and cherished, compacted, redistributed, distilled, injected into the poorest of the concubines, sent out back into the world.

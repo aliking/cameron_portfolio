@@ -1,1 +1,1 @@
-Matthew Borman cannot die. Neither can his foe. Their duel will persist long after we have both perished.
+**The Immortal Outlaw**, true to his name, cannot die. Neither can his foe. Their duel will persist long after we have both perished.

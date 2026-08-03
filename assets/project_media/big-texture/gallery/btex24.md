@@ -1,0 +1,1 @@
+**The Immortal Outlaw** remebers just a bit of his adolescent life, skull wrapped in metal, pushed over car hoods, seducing cheerleaders, a girl with an eyepatch, her evil grin, her evil laugh, her kind ways, and in small flashes, her divine ascension.

@@ -1,0 +1,1 @@
+Newly supersitious, the citizens of America have a brief experiment with witch trials once more, with the same minimal success as the previous attempts. Killing their bachelorettes doesn't stop the cholera from spreading.

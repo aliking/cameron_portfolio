@@ -1,0 +1,1 @@
+**Xylem Tube** attempts to adapt an old story she hears about a man dressed as the Devil and his mistess dressed as a hog holding a restored diner shelter hostage, but the reports are so erractic and wild she cannot fully decipher what actually happened.

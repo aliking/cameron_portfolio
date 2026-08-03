@@ -1,0 +1,1 @@
+Insect life flourishes, and the mosquito has become the undisputed monarch of the Bayou Delta Region.

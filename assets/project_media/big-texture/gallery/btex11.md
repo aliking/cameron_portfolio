@@ -1,0 +1,1 @@
+There is a story that **Xylem Tube** tells the children when they ask to be scared. It is a story of a girl in her fishing village, ironically allergic to seafood, whose fear and disgust of the fish turned them sour and inedible, then monstrous and violent, killing dozens. She takes a meal with their parents, politely declining the salmon.

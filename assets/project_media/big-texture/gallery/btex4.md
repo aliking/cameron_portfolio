@@ -1,0 +1,1 @@
+**Xylem Tube** is interested in history along with her books, so when she hears about the end of American morale beginning with seven failed subsequent interplanetary missions, she is quick to compare it to the epilogue of "The Andromeda Strain." Such a thought frightens her!

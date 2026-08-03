@@ -1,0 +1,1 @@
+A day before the blast, all livestock within a 300 mile radius of the planned strike points suddenly stopped moving and began to look at the sky. The ones closest are said to have expressed a sort of joy.

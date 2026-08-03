@@ -1,1 +1,1 @@
-The family of the Deer Boy are all rockstars, squealing out Brian Eno in the wilderness.
+The family of **the Deer Boy** are all rockstars, squealing out Brian Eno in the wilderness.

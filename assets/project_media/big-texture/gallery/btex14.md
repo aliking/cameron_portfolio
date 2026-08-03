@@ -1,0 +1,1 @@
+Where pareidolia takes hold, a little life begins, rippling through the stone or acrylic in which it was recognized, wishing out to the **Blue Fairy**.

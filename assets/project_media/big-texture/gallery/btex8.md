@@ -1,0 +1,1 @@
+Drug usage has gone from recreational to almost mandatory in some under-bridge enclaves. The lost boys, girls, & others are all orphans as far as they know, like their last president, and usually the producted of an inebriated, mutated mistake, just like their last president.

@@ -1,1 +1,1 @@
-Christian practices are now nothing more than making effigies and burning them. A fittingly pagan existence.
+Cat Man! This bizzare trickster god will one dya be renowned by most of the smaller towns near the center of Ozark. It is theorized to be a misinterpretation of the very real and similarly mischevious **Deer Boy**. When **Xylem Tube** first hears a story about him, she laughs so hard she nearly chokes, but she spreads it all the same, as is her duty.

@@ -1,0 +1,1 @@
+**Sir Gabriel Peppers** has always fancied himself as special for hearing the word of God, The Zero State. Truthfully, he's not wrong. The Zero State, wokring in Their Usual Mysterious Ways, has influenced bloodlines for generations to build a body which is genetically perfect to recieve Their Gospel.

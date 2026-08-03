@@ -1,0 +1,1 @@
+Southern Canada burned as the result of a poorly planned counterattack on Quebecois nationalists. 30 years later, some fires remain in Cascadia and Chippewa, seen by silent witnesses.

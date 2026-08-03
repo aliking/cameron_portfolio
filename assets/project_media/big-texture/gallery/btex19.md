@@ -1,0 +1,1 @@
+It is sadi that when the last president, **Roswell Geiger** was born, it is said that he did not cry. He merely grinned, and already, an atomic blear began to fizzle from his skin.
