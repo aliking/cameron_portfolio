@@ -199,6 +199,10 @@
     }
 }
 
+.gallery-lightbox-desc {
+    margin-top: $spacing-md;
+}
+
 .project-gallery-grid {
     column-count: 3;
     column-gap: $spacing-md;
@@ -275,10 +279,6 @@
     align-items: center;
 }
 
-.gallery-lightbox-desc {
-    margin-top: $spacing-md;
-}
-
 .gallery-lightbox-image {
     width: auto;
     max-width: 100%;
@@ -312,4 +312,26 @@ body.gallery-lightbox-open {
     .gallery-lightbox-button {
         top: $spacing-sm;
     }
+}
+
+// __ Video ___________________________________________________
+.background-video {
+  width: 100%;
+  height: auto;
+}
+
+.foreground-video {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid $border-color;
+  border-radius: $radius-md;
+  background: $bg-card;
+  box-shadow: $shadow-card;
+}
+
+// __ Audio ___________________________________________________
+.page-asset-audio {
+  width: 100%;
+  display: block;
 }

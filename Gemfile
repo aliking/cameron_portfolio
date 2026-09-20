@@ -8,11 +8,11 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+# This is the theme for this Jekyll sites.
 gem "jekyll-project-stack-portfolio"
 
 group :jekyll_plugins do
-  gem "jekyll-page-asset", "0.1.2"
+  gem "jekyll-page-asset", "0.1.3"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
