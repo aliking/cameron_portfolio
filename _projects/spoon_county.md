@@ -20,7 +20,12 @@ The Pearson family, siblings Julie, David, and Molly struggle to adjust after bo
 
 {% page_asset gallery gallery2 %}
 
+## Soundtracks
+10pm
 {% page_asset audio 10pm.mp3 %}
-{% page_asset audio Gizmo Gabriel.mp3 %}
-{% page_asset audio Postholing! State Park!.mp3 %}
-{% page_asset audio Blue Planet Cronenberg.mp3 %}
+Gizmo Gabriel
+{% page_asset audio Gizmo-Gabriel.mp3 %}
+The Postholing Theme
+{% page_asset audio Postholing!-State-Park!.mp3 %}
+Blue Planet Cronenberg
+{% page_asset audio Blue-Planet-Cronenberg.mp3 %}
