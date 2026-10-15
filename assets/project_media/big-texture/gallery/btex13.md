@@ -1,1 +1,1 @@
-In the form of a ragged man covered in the sand of the Mojave, the Devil slowly makes his way to Alamo.
+In the form of a ragged man covered in the sand of the Mojave, **The Devil** slowly makes his way to Alamo.

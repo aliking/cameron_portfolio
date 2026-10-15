@@ -1,0 +1,1 @@
+**Sir Gabriel Peppers**' rise to folk hero status early in his life was interrupted during a manic episode in which he attempted to slay a former lover he accused of putting the voice of the Zero State in his head. The story travels, and by the time he and **Ms Zora Lavani** officially meet, she has been telling tales of his drunkenness, gluttony, and delusion for years.

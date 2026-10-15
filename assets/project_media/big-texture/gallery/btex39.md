@@ -1,0 +1,1 @@
+A deep flood in the basins of Osage... **Ms Zora Lavani** keeps her bag of books above the water, seeking a way to preserve them over her own life, over the life of the children who huddle close to her in the cold murk, for that is her duty. That is the way of the Archivist... From her mind, she recites a story from some old religious text.

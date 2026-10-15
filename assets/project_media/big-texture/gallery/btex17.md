@@ -1,1 +1,1 @@
-Little is known of what happened to **The Deer Boy** after his quest to deliver the diary, but it is said that in his later years, he could scrape a spectral HMS Erebus and Terror from Polar to Chihuahua.
+Little is known of what happened to **The Deer Boy** between quest to deliver the diary and the second age of Television, but it is said that in his later years, he could scrape a spectral HMS Erebus and Terror from Polar to Chihuahua.

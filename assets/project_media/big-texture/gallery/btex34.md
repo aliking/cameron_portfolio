@@ -1,0 +1,1 @@
+Attempt five dozen and three of the everglade coastal adolescent league, and the boys and girls are getting old, getting weak, losing hope, so far out at sea it seems that they will never reach anything else, that such hallucinations as "Eurasia" and "Africa" have *never* existed... **Nemon Baro**, first captain, leaps to the water and begins to swim. In hordes, they follow her.

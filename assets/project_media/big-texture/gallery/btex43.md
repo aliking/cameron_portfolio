@@ -1,0 +1,1 @@
+The North American Nuclear Holocaust. The blast. A brilliant white light, fading into all colors. One of the only surviving sermons from the Church of the Zero State describes this as an attempt to blind the creator, to create a haven not beholden to any rules of physics or logic, only human will. Is that not the dream this pre-blast nation was founded on?

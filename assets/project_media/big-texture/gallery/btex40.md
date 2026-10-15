@@ -1,0 +1,1 @@
+A nameless girl in a run-down set of shack-hotels. She cannot sleep, and from the room next to hers, the room she knows must belong to **Sir Gabriel Peppers**, there is screeching - a woman's voice, mixed in with the static, laughing... He is sobbing, losing his breath. A crescendo... he roars!

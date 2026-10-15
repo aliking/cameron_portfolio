@@ -1,1 +1,1 @@
-Newly supersitious, the citizens of America have a brief experiment with witch trials once more, with the same minimal success as the previous attempts. Killing their bachelorettes doesn't stop the cholera from spreading.
+Newly supersitious, the citizens of America have a brief experiment with witch trials once more near the start of the Second Age of Television, with the same minimal success as the previous attempts. Killing their bachelorettes doesn't stop the cholera from spreading.

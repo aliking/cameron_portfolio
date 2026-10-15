@@ -1,0 +1,1 @@
+Just before the Archivist's War, the same shoddy Appalachian feudal factions that knighted **Sir Gabriel Peppers** more or less on a whim decided to organize into genuine city-states, forming the most populated areas that opposed the Church of The Zero State, founded on a faux-pastoral image of some proto-Protestant culture. It is a real shame what happened to them.

@@ -1,0 +1,1 @@
+The Second Age of Television truly begins when Cecelia takes Appalachia, but there is an argument to be made that the signs of change develop a decade before, when two visiting Archivists are brutally murdered in large Cumberland settlement, and, for the first time since the blast, citizens organize to investigate.

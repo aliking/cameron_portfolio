@@ -1,0 +1,1 @@
+A week before the blast, and someone's daughter is staring and the television, watching her mutant fling speak, crying. **Casey Peppers** makes his final voyage to the suburbs of Michigan.

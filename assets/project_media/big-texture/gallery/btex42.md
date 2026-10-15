@@ -1,0 +1,1 @@
+Lavani's last tale, her voice a dry croak in the Yucatan night wind. A story of wires, high contrast screens, the fuzz of a home video, a family sitting at a dinner table. The next morning, cartoons, but this night... her night, as she retires to the chambers of the family hosting her, a strange reptilian creature slides through the window and whisks her away.
